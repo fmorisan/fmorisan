@@ -1,6 +1,6 @@
 ### Hello, you!
 
-- Currently working as a Blockchain Developer at [Protofire](https://protofire.io)
+- Currently leading technical integrations with other protocols at MakerDAO
 - I've got a passion for hacking stuff together, tinkering, etc...
   - From python snippets, various experiments, web thingies, opengl and blockchain-related stuff
 - I love taking part in hackathons
