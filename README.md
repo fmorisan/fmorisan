@@ -1,6 +1,6 @@
 ### Hello, you!
 
-- Currently leading technical integrations with other protocols at MakerDAO
+- Currently working towards stablecoin adoption at Sky Ecosystem, under Viridian Advisor
 - I've got a passion for hacking stuff together, tinkering, etc...
   - From python snippets, various experiments, web thingies, opengl and blockchain-related stuff
 - I love taking part in hackathons
